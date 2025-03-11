@@ -5,14 +5,9 @@ This is the GitHub repository for my Thesis Project regarding the investigation 
 
 Folder containing the python code used for the tests and for the analysis as well as the datasets used
 
-## Results
-
-Stores the results of the tests, breakdown of HTTPS response types per ISP and it is organized in subfolders by measurement date
-
-
 ## Compare_pc_nopc
 
-Comparison of parental control ON vs. OFF 
+Measurements results for parental control ON vs. OFF 
 
 ## Categories_analysis
 
